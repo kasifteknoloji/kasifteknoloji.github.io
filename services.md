@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Ürünler
 layout: services
 intro_image: 
 intro_image_absolute: true

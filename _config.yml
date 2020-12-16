@@ -1,0 +1,32 @@
+baseurl: ''
+exclude: ['README.md']
+permalink: pretty
+title: 'Kaşif Teknoloji'
+
+google_analytics_id: ""
+homepage:
+  show_call_box: true
+logo:
+  mobile: "images/logo/logo-mobile.svg"
+  desktop: "images/logo/logo.svg"
+  desktop_height: "36px"
+footer:
+
+seo:
+  meta_og_title: "Kaşif Teknoloji"
+  meta_og_type: "website"
+  meta_og_url: "https://jekyll-serif-theme.netlify.app"
+  meta_og_description: "Kaşif Teknoloji kurumsal süreç problemlerine dijital çözümler geliştirir"
+
+collections:
+  services:
+    output: true
+  
+
+sass:
+  indentWidth: 4
+  style: compact # possible values: nested expanded compact compressed
+  precision: 10
+
+plugins:
+  - jekyll-environment-variables

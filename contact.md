@@ -4,4 +4,5 @@ layout: contact
 bodyClass: page-contact
 ---
 
-{{ site.data.contact.adres }}
+<strong>{{ site.data.contact.company_name }}</strong>
+<br>{{ site.data.contact.adres }}<br>

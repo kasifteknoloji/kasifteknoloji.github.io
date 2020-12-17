@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="1" height="100%" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(0.732644,0,0,0.732644,-32.885,197.799)">
-        <text x="124.08px" y="230.964px" style="font-family:'YesevaOne-Regular', 'Yeseva One';font-size:322.121px;fill:rgb(92,10,10);">KAŞİ<tspan x="877.843px " y="230.964px ">F</tspan></text>
+<svg width="100%" height="100%" viewBox="0 0 1080 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect x="-2.993" y="-1.397" width="1089.8" height="1089.4" style="fill:rgb(104,10,10);"/>
+    <g transform="matrix(1.20342,0,0,1.20342,-247.888,-158.011)">
+        <text x="349.22px" y="892.417px" style="font-family:'YesevaOne-Regular', 'Yeseva One';font-size:855.515px;fill:rgb(255,252,252);">K</text>
     </g>
 </svg>

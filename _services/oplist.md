@@ -8,56 +8,47 @@ layout: service
 
 ![Health Personnel Illustration](/images/illustrations/pablo-a-man-runs-away-from-a-doctor-2.svg)
 
-Sağlık personellerinin nöbet ve vardiyalarını belirleyen **çalışma çizelgeleri**, Türkiye'deki bütün sağlık kurumlarında herhangi bir program yardımı olmadan, elle hazırlanıyor. Bu çizelgeler:
-    
-+ insan kaynaklı birçok hataya açık
-+ adaletsiz mesai dağıtımlarına sebep oluyor
-+ hazırlayanların çokça mesai dışı vaktini alıyor
+## Sorun Ne?
 
-Aynı zamanda güncel kullanılan süreçler, sağlıklı ve detaylı bir mesai takibi veremediği için, sağlık kurumlarının yönetim seviyesini tatmin etmiyor.
+Sağlık personellerinin nöbet ve vardiyalarını belirleyen **çalışma çizelgeleri**, Türkiye'deki bütün sağlık kurumlarında elle hazırlanıyor. Bu çizelgeler insan kaynaklı olduğundan birçok hatayı içeriyor, vardiyaları optimize dağıtamıyor ve hazırlayanların fazlaca vaktini alıyor.
 
-Elbette ki alt kıdemli sağlık personelleri de, adaletsiz dağıtımlardan dolayı **motivasyon düşüklüğü** yaşıyor.
+Ekibimiz Alper Şener (BSc. Bilkent IE, MSc. Öğr Gör. ODTÜ IE), Osman Erdem (BSc., MSc. Bilkent EEE) ve Ömür Yanıkömeroğlu (BSc. Bilkent EEE, MSc. ODTÜ STPS), ülkemizdeki tüm sağlık kurumlarının bütün vardiya problemlerini birkaç dakika içinde çözen yazılımı geliştirdi.
 
-## Ne Yapar? 
+### Referanslar
 
-**Oplist**; sağlık bakanlığının vardiya/nöbet mevzuatı ve çeşitli sağlık kurumlarının ilgili kurallarını içinde bulunduran sistemi ile **otomatik ve optimize mesai dağıtımları** yaparak, çalışma çizelgesi hazırlama sürecindeki problemleri çözmeye yarar.
+- **Çam ve Sakura Şehir Hastanesi** - Acil
+- **Adana Şehir Hastanesi** – Kadın Doğum
+- **Dışkapı EAH** – Diyaliz Merkezi
+- **Yozgat Şehir Hastanesi** – Kadın Doğum
+- **Bursa İl Sağlık Müdürlüğü** – Filyasyon
+- **Hacettepe Hastanesi** – Dahiliye
 
-Mevcut düzende **saatler ve hatta günler süren** bu süreci, **dakikalar** mertebesinde çözer.
+## Ne Yapar?
 
-![Problem Plot](/images/plot-problem-complexity.jpg)
+Türkiye'de ilk kez, **Oplist**, Sağlık Bakanlığı'nın vardiya/nöbet mevzuatı ve çeşitli sağlık kurumlarının ilgili kurallarını içinde bulunduran sistemi ile **otomatik ve optimize mesai dağıtımları** yaparak, çalışma çizelgesi hazırlama sürecindeki problemleri çözer.
+
+Mevcut düzende **günler süren** bu süreci, **dakikalar** içerisinde çözüyor.
+
+### Sorun Ne Halde?
+
+<img width="1000" src="/images/plot-problem-complexity.jpg">
 
 - **Ayrıca**:
-    - oluşturduğu veriyi farklı performans çıktıları ile HBYS sistemine dağıtır
-    - süreçteki zorunlu dilekçeleri sistem üzerinde oluşturur
-    - yöneticiler için hastane genelinde güncel mesai durumlarını görseller 
+  - oluşturduğu veriyi farklı performans çıktıları ile HBYS sistemine dağıtıyor
+  - süreçteki zorunlu dilekçeleri sistem üzerinde oluşturuyor
+  - yöneticiler için hastane genelinde güncel mesai durumlarını gösteriyor
 
-> Böylece hem sağlık personellerinin zamanından harcanan kayıp ciddi oranda düşürülür, hem de **daha adaletli** ve **birçok farklı kıdemdeki personelin isteğine yanıt verebilen** çalışma çizelgeleri hazırlanabilir.
+> Böylece sağlık personellerinin harcadığı zamanı ciddi oranda düşürür. **Daha adil** ve **farklı kıdemdeki personelin isteklerine yanıt verebilen** çalışma çizelgeleri hazırlar.
 
+- Çalışan kaynağından tasarruf sağlar
+- Çalışma çizelgelerinin merkezi kontrolünü kolaylaştırır
 
 ## Nasıl Yapar?
 
-Kullandığı `karışık tam sayı modellemesi` algoritması sayesinde, kural girdilerine karşılık gelen en adil ve en optimize çizelge çıktısını verir.
-
-## Faydaları
-
-<img width="400" src="/images/illustrations/pixeltrue-icons-time-is-money.svg">
-
-+ Çalışan kaynağından tasarruf
-+ Çalışan motivasyonunu arttırarak iş barışını sürdürme
-+ Kullanım kolaylığı ile süreç hızlandırma
-+ Çalışma çizelgelerinin merkezi kontrolünü kolaylaştırılma
-
-## Referanslar
-
-+ **Çam ve Sakura Şehir Hastanesi** - Acil
-+ **Adana Şehir Hastanesi** – Kadın Doğum
-+ **Dışkapı EAH** – Diyaliz Merkezi 
-+ **Yozgat Şehir Hastanesi** – Kadın Doğum
-+ **Bursa İl Sağlık Müdürlüğü** – Filyasyon
-+ **Hacettepe Hastanesi** – Dahiliye
+Kullandığı `karışık tam sayı modellemesi` algoritması sayesinde, kural girdilerine karşılık gelen en adil ve en optimize çizelge çıktısını oluşturur.
 
 <img width="600" src="/images/doctor-laptop.jpg">
 
 Detaylı bilgi ve iletişim için: <a href="mailto:">
-        bilgi@kasifteknoloji.com.tr
-      </a>
+bilgi@kasifteknoloji.com.tr
+</a>

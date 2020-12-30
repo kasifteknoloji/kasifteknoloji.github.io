@@ -1,0 +1,58 @@
+I"�<p><img src="/images/illustrations/pablo-a-man-runs-away-from-a-doctor-2.svg" alt="Health Personnel Illustration" /></p>
+
+<h2 id="sorun-ne">Sorun Ne?</h2>
+
+<p>Sağlık personellerinin nöbet ve vardiyalarını belirleyen <strong>çalışma çizelgeleri</strong>, Türkiye’deki bütün sağlık kurumlarında elle hazırlanıyor. Bu çizelgeler insan kaynaklı olduğundan birçok hatayı içeriyor, vardiyaları optimize dağıtamıyor ve hazırlayanların fazlaca vaktini alıyor.</p>
+
+<p>Ekibimiz Alper Şener (BSc. Bilkent IE, MSc. Öğr Gör. ODTÜ IE), Osman Erdem (BSc., MSc. Bilkent EEE) ve Ömür Yanıkömeroğlu (BSc. Bilkent EEE, MSc. ODTÜ STPS), ülkemizdeki tüm sağlık kurumlarının bütün vardiya problemlerini birkaç dakika içinde çözen yazılımı geliştirdi.</p>
+
+<h3 id="referanslar">Referanslar</h3>
+
+<ul>
+  <li><strong>Çam ve Sakura Şehir Hastanesi</strong> - Acil</li>
+  <li><strong>Adana Şehir Hastanesi</strong> – Kadın Doğum</li>
+  <li><strong>Dışkapı EAH</strong> – Diyaliz Merkezi</li>
+  <li><strong>Yozgat Şehir Hastanesi</strong> – Kadın Doğum</li>
+  <li><strong>Bursa İl Sağlık Müdürlüğü</strong> – Filyasyon</li>
+  <li><strong>Hacettepe Hastanesi</strong> – Dahiliye</li>
+</ul>
+
+<h2 id="ne-yapar">Ne Yapar?</h2>
+
+<p>Türkiye’de ilk kez, <strong>Oplist</strong>, Sağlık Bakanlığı’nın vardiya/nöbet mevzuatı ve çeşitli sağlık kurumlarının ilgili kurallarını içinde bulunduran sistemi ile <strong>otomatik ve optimize mesai dağıtımları</strong> yaparak, çalışma çizelgesi hazırlama sürecindeki problemleri çözer.</p>
+
+<p>Mevcut düzende <strong>günler süren</strong> bu süreci, <strong>dakikalar</strong> içerisinde çözüyor.</p>
+
+<h3 id="sorun-ne-halde">Sorun Ne Halde?</h3>
+
+<p><img width="1000" src="/images/plot-problem-complexity.jpg" /></p>
+
+<ul>
+  <li><strong>Ayrıca</strong>:
+    <ul>
+      <li>oluşturduğu veriyi farklı performans çıktıları ile HBYS sistemine dağıtıyor</li>
+      <li>süreçteki zorunlu dilekçeleri sistem üzerinde oluşturuyor</li>
+      <li>yöneticiler için hastane genelinde güncel mesai durumlarını gösteriyor</li>
+    </ul>
+  </li>
+</ul>
+
+<blockquote>
+  <p>Böylece sağlık personellerinin harcadığı zamanı ciddi oranda düşürür. <strong>Daha adil</strong> ve <strong>farklı kıdemdeki personelin isteğine yanıt verebilen</strong> çalışma çizelgeleri hazırlar.</p>
+</blockquote>
+
+<ul>
+  <li>Çalışan kaynağından tasarruf sağlar</li>
+  <li>Çalışma çizelgelerinin merkezi kontrolünü kolaylaştırır</li>
+</ul>
+
+<h2 id="nasıl-yapar">Nasıl Yapar?</h2>
+
+<p>Kullandığı <code class="language-plaintext highlighter-rouge">karışık tam sayı modellemesi</code> algoritması sayesinde, kural girdilerine karşılık gelen en adil ve en optimize çizelge çıktısını oluşturur.</p>
+
+<p><img width="600" src="/images/doctor-laptop.jpg" /></p>
+
+<p>Detaylı bilgi ve iletişim için: <a href="mailto:">
+bilgi@kasifteknoloji.com.tr
+</a></p>
+:ET

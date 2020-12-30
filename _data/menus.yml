@@ -1,6 +1,6 @@
 main:
-  - name: "Ürünler"
-    url: "/services/"
+  - name: "Ürün"
+    url: "/services/oplist"
     weight: 2
   - name: "İletişim"
     url: "/contact/"

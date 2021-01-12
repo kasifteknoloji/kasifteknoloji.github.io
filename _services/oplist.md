@@ -25,27 +25,33 @@ Ekibimiz Alper Şener (BSc. Bilkent IE, MSc. Öğr Gör. ODTÜ IE), Osman Erdem 
 
 ## Ne Yapar?
 
-Türkiye'de ilk kez, **Oplist**, Sağlık Bakanlığı'nın vardiya/nöbet mevzuatı ve çeşitli sağlık kurumlarının ilgili kurallarını içinde bulunduran sistemi ile **otomatik ve optimize mesai dağıtımları** yaparak, çalışma çizelgesi hazırlama sürecindeki problemleri çözer.
+Türkiye'de ilk kez, **Oplist**, Sağlık Bakanlığı'nın vardiya/nöbet mevzuatındaki kurallar ve 
 
-Mevcut düzende **günler süren** bu süreci, **dakikalar** içerisinde çözüyor.
+- **Sağlık Bakanlığı'nın nöbet mevzuatındaki kurallar** ve
+- **çeşitli sağlık kurumlarının çalışma çizelgesi kurallarını**
+
+içinde bulunduran sistemi ile **otomatik ve optimize mesai dağıtımları** yaparak, çalışma çizelgesi hazırlama sürecindeki problemleri çözer.
+
+Mevcut düzende **günler süren** bu süreç, **dakikalar** içerisinde çözülür.
 
 ### Sorun Ne Halde?
 
+Aşağıdaki grafik, sürecin yarattığı problemi gösteriyor:
+
 <img width="1000" src="/images/plot-problem-complexity.jpg">
 
-- **Ayrıca**:
+- **Ayrıca Oplist**:
   - oluşturduğu veriyi farklı performans çıktıları ile HBYS sistemine dağıtıyor
   - süreçteki zorunlu dilekçeleri sistem üzerinde oluşturuyor
   - yöneticiler için hastane genelinde güncel mesai durumlarını gösteriyor
 
 > Böylece sağlık personellerinin harcadığı zamanı ciddi oranda düşürür. **Daha adil** ve **farklı kıdemdeki personelin isteklerine yanıt verebilen** çalışma çizelgeleri hazırlar.
 
-- Çalışan kaynağından tasarruf sağlar
-- Çalışma çizelgelerinin merkezi kontrolünü kolaylaştırır
-
 ## Nasıl Yapar?
 
 Kullandığı `karışık tam sayı modellemesi` algoritması sayesinde, kural girdilerine karşılık gelen en adil ve en optimize çizelge çıktısını oluşturur.
+
+Çeşitli kurallar arasından biriminize en uygun olanları seçin ve gerisini Oplist'e bırakın.
 
 <img width="600" src="/images/doctor-laptop.jpg">
 

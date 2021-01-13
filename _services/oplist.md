@@ -25,7 +25,7 @@ Ekibimiz Alper Şener (BSc. Bilkent IE, MSc. Öğr Gör. ODTÜ IE), Osman Erdem 
 
 ## Ne Yapar?
 
-Türkiye'de ilk kez, **Oplist**, Sağlık Bakanlığı'nın vardiya/nöbet mevzuatındaki kurallar ve 
+Türkiye'de ilk kez, **Oplist**,
 
 - **Sağlık Bakanlığı'nın nöbet mevzuatındaki kurallar** ve
 - **çeşitli sağlık kurumlarının çalışma çizelgesi kurallarını**
@@ -40,7 +40,7 @@ Aşağıdaki grafik, sürecin yarattığı problemi gösteriyor:
 
 <img width="1000" src="/images/plot-problem-complexity.jpg">
 
-- **Ayrıca Oplist**:
+- **Ayrıca Oplist:**
   - oluşturduğu veriyi farklı performans çıktıları ile HBYS sistemine dağıtıyor
   - süreçteki zorunlu dilekçeleri sistem üzerinde oluşturuyor
   - yöneticiler için hastane genelinde güncel mesai durumlarını gösteriyor
